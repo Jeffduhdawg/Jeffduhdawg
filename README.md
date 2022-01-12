@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello!
+
+
+You've found my GitHub, congrats.
+
 
 <!--
 **Jeffduhdawg/Jeffduhdawg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
