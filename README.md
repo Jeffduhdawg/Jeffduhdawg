@@ -2,6 +2,7 @@
 
 
 You've found my GitHub, congrats.
+
 Amateur C# developer, still learning.
 
 # &#x1f4c8; Statistics
