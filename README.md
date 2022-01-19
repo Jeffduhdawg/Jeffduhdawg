@@ -1,6 +1,8 @@
-### Hello!
+### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 You've found my GitHub, congrats.
+Amateur C# developer, still learning.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffduhdawg)](https://github.com/anuraghazra/github-readme-stats)
+# Statistics
+[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffduhdawg&count_private=true&show_icons=true&bg_color=135,87,5,120,52,27,244)](https://github.com/anuraghazra/github-readme-stats)
