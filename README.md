@@ -5,7 +5,7 @@
 </p>
 
  <p align="center">I'm an amateur C# developer, still trying to learn.</p>
- <p align="center"Need anything? Find me at the Discord on my profile and shoot me a ping or DM.</p>
+ <p align="center">Need anything? Find me at the Discord on my profile and shoot me a ping or DM.</p>
 
 
 
