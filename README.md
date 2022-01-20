@@ -11,4 +11,4 @@
  <h2 align="center">&#x1f4c8; Statistics</h2>
 </p>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffduhdawg&count_private=true&hide=prs&show_icons=true&title_color=70a5fd&text_color=bf91f3&icon_color=38bdae&bg_color=1a1b27)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffduhdawg&count_private=true&hide=prs&show_icons=true&title_color=70a5fd&text_color=bf91f3&icon_color=38bdae&bg_color=1a1b27)
