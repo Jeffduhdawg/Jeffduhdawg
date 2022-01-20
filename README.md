@@ -4,7 +4,7 @@
  <p align="center">You've found my GitHub, congrats.</p>
 </p>
 
- <p align="center">I'm an amateur C# developer, still trying to learn.</p>
+ <p align="center">I'm Jeff, an amateur C# developer, still trying to learn and improve.</p>
  <p align="center">Need anything? Find me at the Discord on my profile and shoot me a ping or DM.</p>
 
 
