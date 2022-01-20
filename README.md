@@ -8,6 +8,8 @@
 
  <p align="center"Need anything? Find me at the Discord on my profile and shoot me a ping or DM.</p>
 
+
+
 <p align="center">
  <h2 align="center">&#x1f4c8; Statistics</h2>
 </p>
