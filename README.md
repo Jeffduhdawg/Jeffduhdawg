@@ -5,7 +5,8 @@
 </p>
 
  <p align="center">I'm Jeff, an amateur C# developer, still trying to learn and improve.</p>
- <p align="center">Need anything? Find me at the Discord on my profile and shoot me a ping or DM.</p>
+ <p align="center">Need anything? Find me <a href="https://discord.gg/gyw5rDHCfr">here</a> and shoot me a ping or DM.</p>
+ 
 
 
 
