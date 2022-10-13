@@ -8,8 +8,3 @@
  
 
 
-
-<p align="center">
- <h2 align="center">&#x1f4c8; Statistics</h2>
-</p>
-
